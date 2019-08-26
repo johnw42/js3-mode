@@ -1,0 +1,118 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Apr  6 20:59:03 2017
+;; Desktop file format version 206
+;; Emacs version 25.1.91.1
+
+;; Global section:
+(setq desktop-saved-frameset nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("withResolver" "js2-mdoe" "js3-assign" "param" "jsdoc" "annotation" "@type" "@param" "registerDe" "gcmRe" "config" "sandbox_extra" "receiverdeployer" "settings-button" "goToSet" "storage"))
+(setq regexp-search-ring '("^ *then" "\\.\n *then" "[^a-z._]" "GG"))
+(setq register-alist nil)
+(setq file-name-history '("~/git/js3-mode/lib/" "/usr/local/google/home/jrw/git/js3-mode/lib/js3-indent.el" "~/git5/cloudview/google3/chrome_platform/cast/script/api_bootstrap/BUILD" "~/git5/cloudview/google3/chrome_platform/cast/tests/script/packaged_app_receiver/BUILD" "~/git5/cloudview/google3/chrome_platform/cast/tests/script/packaged_app_receiver/background_service_test.js" "~/golf/golf95.hs" "~/golf/golf98.go" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/integration.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/playback/playback_ctrl.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/messaging/message_listener.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/integration.html" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/settings/settings_ctrl.js" "~/golf/golf97.go" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/playback/playback.html" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/analytics/fake_analytics_service.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/storage/fake_storage_service.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/storage/storage_service.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/event_page.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/app.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/BUILD" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/analytics/analytics_service_stub.js" "~/git5/cloudview/google3/chrome_platform/cast/tests/e2e/gcd/BUILD" "~/git5/cloudview/google3/chrome_platform/cast/tests/e2e/gcd/gcd_test_utils.py" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/integration.js" "~/homedir/bin/python/jrw/git.py" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/integration.js" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/manifest.yaml" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/build_defs" "~/golf/golf97.hs" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/generate_manifest.py" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/settings/settings.html" "/usr/local/google/home/jrw/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/genjsdeps.sh" "/usr/local/google/home/jrw/git5/cloudview/google3/chrome_platform/cast/script/genjsdeps.sh" "~/git5/cloudview/google3/chrome_platform/cast/script/packaged_app_receiver/" "~/golf/golf97.py" "~/golf/golf98.py" "~/golf/golf97.hs" "~/git5/closure/google3/javascript/closure/async/nexttick.js" "~/git5/cloudview/google3/java/com/google/chrome/cloudview/script/sender/manifest.json.pre" "~/golf/golf93.py" "~/golf/golf98.hs" "~/golf/golf93.hs" "~/golf/golf90.py" "~/git5/closure/google3/javascript/closure/labs/streams/stream_example.js" "~/git5/closure/google3/javascript/closure/labs/streams/" "~/.emacs.d/init-solarized.el" "~/golf/golf88.hs" "~/git5/closure/google3/javascript/closure/labs/streams/subscription.js" "~/git5/closure/google3/javascript/closure/labs/streams/basic_stream.js" "~/git5/closure/google3/javascript/closure/labs/streams/i.js" "~/git5/closure/google3/javascript/closure/labs/streams/c.js" "~/git5/closure/google3/javascript/closure/labs/streams/broadcast_stream.js" "~/git5/closure/google3/javascript/closure/labs/streams/stream.js" "~/git5/closure/google3/javascript/closure/labs/streams/controller.js" "~/git5/closure/google3/javascript/closure/labs/streams/subscription_options.js" "~/git5/closure/google3/javascript/closure/labs/streams/stream_test.js" "~/git5/closure/google3/javascript/closure/labs/streams/functions.js" "~/git5/closure/google3/javascript/closure/labs/streams/stream_types.js" "~/git5/closure/google3/javascript/closure/labs/stream/stream_types.js" "~/git5/closure/google3/javascript/closure/labs/stream/stream.js" "~/git5/gcd-flume/google3/java/com/google/chrome/cloudview/receiver/BUILD" "~/git5/closure/google3/javascript/closure/labs/stream/stream_test.html" "~/git5/gcd-flume/google3/java/com/google/clouddevices/backend/flume/clouddevicesio/DeviceLoader.java" "~/pbin/elisp/my-google.el" "~/.emacs" "~/git5/gcd-flume/google3/java/com/google/clouddevices/backend/storage/BUILD" "~/golf/golf88.go" "~/golf/golf73.go" "/usr/local/google/home/jrw/github/mgit/mgit_test.py" "~/git/mgit/mgit.py" "~/.bashrc" "/usr/bin/vcsh" "/usr/local/google/home/jrw/homedir/.gitignore" "~/.gitconfig" "~/homedir/.gitignore" "/usr/lib/git-core/git-sh-prompt" "/etc/bash_completion.d/git-prompt" "~/homedir/.bashrc" "~/.emacs.d/init-packages.el" "~/chrome_dev/src/out/Debug/remoting_me2me_host" "~/pbin/chrome-test" "~/chrome_dev/src/remoting/host/gcd_state_updater.h" "~/chrome_dev/src/remoting/host/heartbeat_sender.cc" "~/chrome_dev/src/remoting/test/host_list_fetcher.h" "~/chrome_dev/src/remoting/webapp/crd/js/legacy_host_list_api.js" "~/.config/chrome-test/settings.yaml" "~/chrome_dev/src/remoting/host/oauth_token_getter_impl.h" "~/depot_tools/git_cl.py" "~/pbin/rabbit" "~/homedir/.emacs" "~/git5/chromoting-dir/google3/java/com/google/clouddevices/backend/flume/clouddevicesio/CloudDevicesIOSink.java" "~/homedir/.emacs.d/init-google.el" "~/chrome_dev/src/third_party/closure_compiler/compile_js.gypi" "~/git5/chromoting-dir/google3/java/com/google/clouddevices/backend/flume/clouddevicesio/CloudDevicesIOSink.java" "~/chrome_dev/src/remoting/webapp/base/js/base.js" "~/chrome_dev/src/remoting/webapp/crd/js/combined_host_list_api.js" "~/chrome_dev/src/remoting/webapp/js_proto/" "~/chrome_dev/src/remoting/webapp/js_proto/sinon_proto.js" "~/chrome_dev/src/remoting/webapp/js_proto/test_proto.js" "~/chrome_dev/src/remoting/webapp/crd/js/combined_host_list_api.js"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "lib/js3-foot.el"
+  "js3-foot.el"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  14408
+  '(14409 t)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "lib/js3-util.el"
+  "js3-util.el"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  589
+  '(229 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "lib/js3-indent.el"
+  "js3-indent.el"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  26646
+  '(1291 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "lib/js3-ast.el"
+  "js3-ast.el"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  122606
+  '(122721 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "../../homedir/.emacs.el"
+  ".emacs.el"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  11724
+  '(11596 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "../../../../../../share/emacs/25.1.91+gg1+2/lisp/subr.el.gz"
+  "subr.el.gz"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  152658
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "bin/build"
+  "build"
+  'sh-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode googlemenu-mode compile-on-save-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "js3.el"
+  "js3.el"
+  'emacs-lisp-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode hl-todo-mode googlemenu-mode paredit-mode compile-on-save-mode)
+  296907
+  '(283971 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "tests/tests.js"
+  "tests.js"
+  'js3-mode
+  '(abbrev-mode override-global-mode projectile-mode highlight-parentheses-mode googlemenu-mode compile-on-save-mode)
+  2257
+  '(2257 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
